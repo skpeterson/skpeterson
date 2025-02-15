@@ -1,7 +1,7 @@
 - 👋 Hi there friend, I’m Sara!
 - 😄 Pronouns: she/her
 
-I am on a journey to become a computational cancer genomics expert through my PhD in Bioinformatics at the University of North Carolina - Chapel Hill! I am working in the laboratories of Ian Davis and Alex Rubinsteyn using bioinformatics software to study fusion driven cancers.
+I am on a journey to become a computational cancer genomics expert through my PhD in Bioinformatics at the University of North Carolina - Chapel Hill! I am working in the laboratories of Ian Davis and Alex Rubinsteyn (https://github.com/pirl-unc) using bioinformatics software to study fusion driven cancers.
 
 - Prior to starting the PhD program in fall 2023 I worked as an engineer at GE, developing new 3D printing ceramic materials for jet engine applications for 5 years!
 - I had never used R or Python prior to starting my computational PhD! It's never too late to try something new!!!
