@@ -1,4 +1,4 @@
-- 👋 Hi there friend, I’m Sara!
+- 👋 Hi there friend, I’m Sara Peterson!
 - 😄 Pronouns: she/her
 
 I am on a journey to become a computational cancer genomics expert through my PhD in Bioinformatics at the University of North Carolina - Chapel Hill! I am working in the laboratories of Ian Davis and Alex Rubinsteyn (https://github.com/pirl-unc) using bioinformatics software to study fusion driven cancers.
