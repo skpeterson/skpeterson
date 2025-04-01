@@ -7,7 +7,7 @@ I am on a journey to become a computational cancer genomics expert through my Ph
 - I had never used R or Python prior to starting my computational PhD! It's never too late to try something new!!!
  
 ⚡ Fun facts
-- I am an avid traveler and adventure seeker! I have been to 31 countries and been sky diving twice!! One time, it was from 18,000 ft which is the maximium height for commercial folks to drop from!
+- I am an avid traveler and adventure seeker! I have been to 34 countries and been sky diving twice!! One time, it was from 18,000 ft which is the maximium height for commercial folks to drop from!
 - I love dogs and have two very wonderful, sweet squishes, Molly and Benson! They make sure I leave the computer screen and get outside a few times everyday!!
 
 
